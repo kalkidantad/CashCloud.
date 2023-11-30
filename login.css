@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.middle {
+    display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      border-color: black;
+      border:10px;
+}
+img{
+    height:50px;
+    width: 50px;
+}
